@@ -1,0 +1,23 @@
+name: Delete tag and release
+description: delete tag and release
+author: "dev-drprasad"
+
+branding:
+  color: "red"
+  icon: "delete"
+
+inputs:
+  tag_name:
+    description: tag name
+    required: true
+  delete_release:
+    description: whether to delete release or not
+    required: false
+    default: true
+  repo:
+    description: target repository as <owner>/<repository>
+    required: false
+
+runs:
+  using: 'node16'
+  main: 'index.js'
