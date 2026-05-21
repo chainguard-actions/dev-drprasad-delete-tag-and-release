@@ -8,7 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v0.2.1 | [`v0.2.1`](https://github.com/chainguard-actions/delete-tag-and-release/tree/v0.2.1) | — |
+| v0.2.1 | [`v0.2.1`](https://github.com/chainguard-actions/dev-drprasad--delete-tag-and-release/tree/v0.2.1) | — |
 
 ## Privacy
 
